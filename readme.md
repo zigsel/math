@@ -144,7 +144,7 @@ Self-contained, runnable programs in [`examples/`](examples). Run one with
 | [`matrices`](examples/matrices.zig)     | `Mat(C, R, T)`, products, inverse, decompose, QR, PCA |
 | [`rotations`](examples/rotations.zig)   | quaternions, dual quaternions, Euler angles |
 | [`camera`](examples/camera.zig)         | model transforms, MVP, project/unProject, frustum culling (Vulkan) |
-| [`scalar_math`](examples/scalar_math.zig) | flat genType math, constants, fast approximations, `meta` |
+| [`scalar`](examples/scalar.zig) | flat genType math, constants, fast approximations, `meta` |
 | [`geometry`](examples/geometry.zig)     | `geom` ops, ray casts, shapes (plane/triangle/…), bounding volumes |
 | [`graphics`](examples/graphics.zig)     | color spaces, noise (incl. fbm/turbulence/ridged), random |
 | [`packing`](examples/packing.zig)       | bit ops, Morton codes, normalized packing |
