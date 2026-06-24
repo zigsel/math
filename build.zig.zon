@@ -76,6 +76,7 @@
         "src",
         "examples",
         "bench",
+        "license.md",
         "readme.md",
     },
 }
